@@ -1,0 +1,8 @@
+C:\Users\DAVID 7\source\repos\ficha_3147912\banco_problemas\banco_problemas\obj\Debug\banco_problemas.csproj.AssemblyReference.cache
+C:\Users\DAVID 7\source\repos\ficha_3147912\banco_problemas\banco_problemas\obj\Debug\banco_problemas.csproj.CoreCompileInputs.cache
+C:\Users\DAVID 7\source\repos\ficha_3147912\banco_problemas\banco_problemas\bin\Debug\banco_problemas.exe.config
+C:\Users\DAVID 7\source\repos\ficha_3147912\banco_problemas\banco_problemas\bin\Debug\banco_problemas.exe
+C:\Users\DAVID 7\source\repos\ficha_3147912\banco_problemas\banco_problemas\bin\Debug\banco_problemas.pdb
+C:\Users\DAVID 7\source\repos\ficha_3147912\banco_problemas\banco_problemas\obj\Debug\banco_problemas.exe
+C:\Users\DAVID 7\source\repos\ficha_3147912\banco_problemas\banco_problemas\obj\Debug\banco_problemas.pdb
+C:\Users\DAVID 7\source\repos\ficha_3147912\banco_problemas\banco_problemas\obj\Debug\banco_problemas.exe.config

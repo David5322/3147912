@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DAVID 7\\source\\repos\\ficha_3147912\\proyecto_nuevo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{640D18AC-F92F-4BBC-8B6C-9FB10A28AFF2}|proyecto_nuevo\\proyecto_nuevo.csproj|c:\\users\\david 7\\source\\repos\\ficha_3147912\\proyecto_nuevo\\proyecto_nuevo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640D18AC-F92F-4BBC-8B6C-9FB10A28AFF2}|proyecto_nuevo\\proyecto_nuevo.csproj|solutionrelative:proyecto_nuevo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID 7\\source\\repos\\ficha_3147912\\proyecto_nuevo\\proyecto_nuevo\\Program.cs",
+              "RelativeDocumentMoniker": "proyecto_nuevo\\Program.cs",
+              "ToolTip": "C:\\Users\\DAVID 7\\source\\repos\\ficha_3147912\\proyecto_nuevo\\proyecto_nuevo\\Program.cs",
+              "RelativeToolTip": "proyecto_nuevo\\Program.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:27:25.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

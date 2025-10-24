@@ -1,0 +1,8 @@
+C:\Users\DAVID 7\source\repos\ficha_3147912\estructuras_de_control\estructuras_de_control\bin\Debug\estructuras_de_control.exe.config
+C:\Users\DAVID 7\source\repos\ficha_3147912\estructuras_de_control\estructuras_de_control\bin\Debug\estructuras_de_control.exe
+C:\Users\DAVID 7\source\repos\ficha_3147912\estructuras_de_control\estructuras_de_control\bin\Debug\estructuras_de_control.pdb
+C:\Users\DAVID 7\source\repos\ficha_3147912\estructuras_de_control\estructuras_de_control\obj\Debug\estructuras_de_control.csproj.AssemblyReference.cache
+C:\Users\DAVID 7\source\repos\ficha_3147912\estructuras_de_control\estructuras_de_control\obj\Debug\estructuras_de_control.csproj.CoreCompileInputs.cache
+C:\Users\DAVID 7\source\repos\ficha_3147912\estructuras_de_control\estructuras_de_control\obj\Debug\estructuras_de_control.exe
+C:\Users\DAVID 7\source\repos\ficha_3147912\estructuras_de_control\estructuras_de_control\obj\Debug\estructuras_de_control.pdb
+C:\Users\DAVID 7\source\repos\ficha_3147912\estructuras_de_control\estructuras_de_control\obj\Debug\estructuras_de_control.exe.config

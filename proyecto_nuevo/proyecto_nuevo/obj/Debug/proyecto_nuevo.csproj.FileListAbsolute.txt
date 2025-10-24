@@ -1,0 +1,8 @@
+C:\Users\DAVID 7\source\repos\ficha_3147912\proyecto_nuevo\proyecto_nuevo\bin\Debug\proyecto_nuevo.exe.config
+C:\Users\DAVID 7\source\repos\ficha_3147912\proyecto_nuevo\proyecto_nuevo\bin\Debug\proyecto_nuevo.exe
+C:\Users\DAVID 7\source\repos\ficha_3147912\proyecto_nuevo\proyecto_nuevo\bin\Debug\proyecto_nuevo.pdb
+C:\Users\DAVID 7\source\repos\ficha_3147912\proyecto_nuevo\proyecto_nuevo\obj\Debug\proyecto_nuevo.csproj.AssemblyReference.cache
+C:\Users\DAVID 7\source\repos\ficha_3147912\proyecto_nuevo\proyecto_nuevo\obj\Debug\proyecto_nuevo.csproj.CoreCompileInputs.cache
+C:\Users\DAVID 7\source\repos\ficha_3147912\proyecto_nuevo\proyecto_nuevo\obj\Debug\proyecto_nuevo.exe
+C:\Users\DAVID 7\source\repos\ficha_3147912\proyecto_nuevo\proyecto_nuevo\obj\Debug\proyecto_nuevo.pdb
+C:\Users\DAVID 7\source\repos\ficha_3147912\proyecto_nuevo\proyecto_nuevo\obj\Debug\proyecto_nuevo.exe.config
